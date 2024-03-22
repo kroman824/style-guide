@@ -1,0 +1,132 @@
+/* COLOR BOX */
+* {
+  font-family: sans-serif;
+}
+h1 {
+  color: rgb(84, 85, 84)
+}
+
+.color {
+  box-sizing: border-box;
+  border: 1px solid gray;
+  background-color: rgb(245, 244, 236);
+  color: rgb(84, 85, 84);
+  border-radius: 15px 20px;
+}
+
+.color li {
+  box-sizing: border-box;
+  border: 1px solid black;
+  display: inline-block;
+  margin: 5px;
+  padding: 10px;
+  color: #ffffff;
+}
+
+.color1 {
+  background-color: rgb(154, 182, 192)
+}
+.color2 {
+  background-color: rgb(176, 185, 166)
+}
+.color3{
+  background-color: rgb(150, 151, 149)
+}
+.color4 {
+  background-color: rgb(190, 60, 55)
+}
+
+/* Fonts */
+.font {
+  box-sizing: border-box;
+  border: 1px solid gray;
+  margin: 7px 0 7px 0;
+  background-color: rgb(239, 240, 236);
+  color: rgb(84, 85, 84);
+  border-radius: 15px 20px;
+}
+/*ojuju font*/
+.ojuju {
+  font-family: ojuju;
+  text-decoration: underline;
+  font-size: 25px;
+}
+.item1 {
+  font-family: ojuju;
+  font-weight: plain;
+  font-size: 20px;
+}
+.item2 {
+  font-family: ojuju;
+  font-weight: bold;
+  font-size: 20px;
+}
+.item3 {
+  font-family: ojuju;
+  font-style: italic;
+  font-size: 20px;
+}
+
+/*truculenta font*/
+.truculenta {
+  font-family: truculenta;
+  text-decoration: underline;
+  font-size: 25px;
+}
+.item4 {
+  font-family: truculenta;
+  font-weight: plain;
+  font-size: 20px;
+}
+.item5 {
+  font-family: truculenta;
+  font-weight: bold;
+  font-size: 20px;
+}
+.item6{
+  font-family: truculenta;
+  font-style: italic;
+  font-size: 20px;
+}
+
+/*noto sans display font*/
+.noto {
+  font-family: "Noto Sans Display";
+  text-decoration: underline;
+  font-size: 25px;
+}
+.item7 {
+   font-family: "Noto Sans Display";
+  font-weight: plain;
+  font-size: 20px;
+}
+.item8 {
+  font-family: "Noto Sans Display";
+  font-weight: Bold;
+  font-size: 20px;
+}
+.item9 {
+  font-family: "Noto Sans Display";
+  font-style: italic; 
+  font-size: 20px;
+}
+
+/*Text-style*/
+.text-styles {
+  box-sizing: border-box;
+  border: 1px solid gray;
+  color: rgb(84, 85, 84);
+  background-color: rgb(241, 237, 224);
+  border-radius: 15px 20px;
+}
+
+.box {
+  box-sizing: border-box;
+  display: inline-block;
+  border: 1px solid gray;
+  width: 90%;
+  margin: 8px;
+  padding: 10px;
+  border-radius: 20px 50px 30px 2px;
+  background-color: rgb(243, 207, 183);
+}
